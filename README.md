@@ -1,2 +1,2 @@
 # RodinLicence
-Rodin Licence Feature
+Rodin Shared Licence Feature
