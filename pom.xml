@@ -15,5 +15,6 @@
 
   <modules>
     <module>org.rodinp.licence</module>
+    <module>org.rodinp.licence.updateSite</module>
   </modules>
 </project>
