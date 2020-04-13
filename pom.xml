@@ -1,0 +1,19 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.rodinp.licence</groupId>
+  <artifactId>root</artifactId>
+  <name>Rodin Licence Root</name>
+  <description>Root Build for Rodin Licence</description>
+  <version>1.0.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <parent>
+    <groupId>org.rodinp.licence</groupId>
+    <artifactId>releng</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <relativePath>./org.rodinp.licence.releng</relativePath>
+  </parent>
+
+  <modules>
+    <module>org.rodinp.licence</module>
+  </modules>
+</project>
