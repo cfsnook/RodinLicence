@@ -3,6 +3,9 @@
    <feature id="org.rodinp.licence">
       <category name="org.rodinp.licence.category"/>
    </feature>
+   <feature id="ac.soton.coda.licence">
+      <category name="org.rodinp.licence.category"/>
+   </feature>
    <category-def name="org.rodinp.licence.category" label="Rodin Licences">
       <description>
          Rodin Licences
