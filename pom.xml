@@ -15,6 +15,7 @@
 
   <modules>
     <module>org.rodinp.licence</module>
+    <module>ac.soton.coda.licence</module>
     <module>org.rodinp.licence.updateSite</module>
   </modules>
 </project>
